@@ -1,0 +1,11 @@
+node_modules/
+.next/
+data/
+*.log
+.env.local
+.env*.local
+
+# ajouts release publique (2026-09-11)
+*.tsbuildinfo
+.claude/
+next-env.d.ts
